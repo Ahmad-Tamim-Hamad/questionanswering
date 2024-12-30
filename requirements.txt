@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 flask
 openai
 python-dotenv
 streamlit
 requests
 gunicorn
+=======
+flask
+openai
+python-dotenv
+streamlit
+requests
+gunicorn
+>>>>>>> 0727d3e5e72e8a9e4a0d52b6ecde969c72798ca9

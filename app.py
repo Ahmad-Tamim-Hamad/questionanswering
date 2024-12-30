@@ -3,6 +3,10 @@ import openai
 from dotenv import load_dotenv
 import os
 
+from app import app
+
+
+
 # Load environment variables
 load_dotenv()
 openai.api_key = os.getenv("OPENAI_API_KEY")
@@ -35,5 +39,5 @@ def ask_question():
         return jsonify({'error': str(e)}), 500
 
 
-if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000)
+if __name__ == "__main__":
+    app.run()

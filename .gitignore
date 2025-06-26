@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+env/
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python package files
+*.egg-info/
+dist/
+build/
+
+# Streamlit cache
+.streamlit/
+
+# Jupyter and IPython
+.ipynb_checkpoints
+
+# Logs and local dev files
+*.log
+
+# VS Code
+.vscode/
+
+# Pytest cache
+.pytest_cache/
+
+# Docker
+*.pid
+*.tar
+docker-compose.override.yml
+
+# Ignore test results
+htmlcov/
+coverage.xml
+*.cover
+.cache/
+
+# Ignore compiled FastAPI files (if any)
+*.db

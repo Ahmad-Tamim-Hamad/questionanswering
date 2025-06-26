@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![LangChain](https://img.shields.io/badge/LangChain-enabled-yellow)
+![FastAPI](https://img.shields.io/badge/FastAPI-lightgreen)
+![OpenAI](https://img.shields.io/badge/OpenAI-API-brightgreen)
+![Dockerized](https://img.shields.io/badge/Docker-ready-blue)
+
 # Question Answering App with LangChain, FastAPI, and Streamlit
 
 This project is a **starter template** to help you learn how to work with **Large Language Models (LLMs)** using [LangChain](https://www.langchain.com/). It provides a simple but complete pipeline from API to UI:

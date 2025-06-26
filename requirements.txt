@@ -1,6 +1,8 @@
-flask
+fastapi
+uvicorn
+langchain
 openai
 python-dotenv
+pydantic
 streamlit
 requests
-gunicorn
